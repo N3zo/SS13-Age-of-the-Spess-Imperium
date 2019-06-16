@@ -35,3 +35,11 @@
 	..()
 	if(rocky && prob(10))
 		src.overlays += image('icons/obj/flora/rocks.dmi', "floor[rand(1, 10)]")
+
+/turf/snow/craters
+	icon = 'icons/turf/varysnow.dmi'
+	name = "snow"
+	icon_state = "1"
+
+/turf/snow/craters/New()
+	icon_state = pick("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12")
