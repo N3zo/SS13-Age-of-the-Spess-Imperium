@@ -1,4 +1,4 @@
-//The UI for the job menu is actually located in preferences_setup.dm
+//The UI for the job menu is actually located in preferences.dm
 //This is a many segmented fucking mess, these are the FLAGS tied to the jobs in the individual files.
 //The numbers determine some shit or another.
 
