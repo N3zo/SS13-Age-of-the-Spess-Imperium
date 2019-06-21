@@ -1,6 +1,7 @@
 # SS13-Age-of-the-Spess-Imperium
 
- Based off NTstation13
+ Based off NTstation13.
+ Special thanks to goonstation, /tg/station, Archangel, and ntstation13.
 
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/warhammer-in-a-2d-spessmen-game/SS13-Age-of-the-Spess-Imperium.svg)](http://isitmaintained.com/project/warhammer-in-a-2d-spessmen-game/SS13-Age-of-the-Spess-Imperium "Average time to resolve an issue")
 
@@ -47,4 +48,4 @@
 				       
 #LICENSE
 
-All code is under a GNU GPL v3 license (http://www.gnu.org/licenses/gpl.html), including tools unless their readme specifies otherwise. All content including icons and sound is under a Creative Commons 3.0 BY-NC-SA license (https://creativecommons.org/licenses/by-nc-sa/3.0/).
+There are licenses.
