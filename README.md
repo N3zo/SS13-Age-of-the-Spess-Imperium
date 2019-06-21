@@ -1,7 +1,8 @@
 # SS13-Age-of-the-Spess-Imperium
 
  Based off NTstation13.
- Special thanks to goonstation, /tg/station, Archangel, and ntstation13.
+ 
+ Special thanks to goonstation, /tg/station, Archangel, and ntstation13. Along with anything else/anyone that has code in this.
 
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/warhammer-in-a-2d-spessmen-game/SS13-Age-of-the-Spess-Imperium.svg)](http://isitmaintained.com/project/warhammer-in-a-2d-spessmen-game/SS13-Age-of-the-Spess-Imperium "Average time to resolve an issue")
 
