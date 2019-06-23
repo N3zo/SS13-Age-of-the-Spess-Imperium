@@ -220,13 +220,13 @@ Bolters
 
 /obj/item/weapon/gun/projectile/automatic/rockbolter
 	name = "Rockbolter"
-	desc = "Work in progress,dont make me scream please.."
+	desc = "Make me scream please!"
 	icon_state = "rockbolter"
 	item_state = "rockbolter"
 	slot_flags = 0
 	origin_tech = "combat=5;materials=1;syndicate=2"
 	mag_type = /obj/item/ammo_box/magazine/boltermag
-	fire_sound = 'sound/weapons/Gunshot_bolter.ogg'
+	fire_sound = 'sound/weapons/blastmaster.ogg'
 	scoped = 0
 	chainb = 1
 	canscope = 0

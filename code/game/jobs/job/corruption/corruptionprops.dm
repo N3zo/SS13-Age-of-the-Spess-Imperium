@@ -168,7 +168,7 @@ Stage 5
 
 /obj/item/weapon/guitar/five																		//start of the slaaneshi upgraded instrument
 	name = "A Guitar"
-	desc = "An extremely expensive instrument. Probably worth more than this entire planet."
+	desc = "An extremely expensive instrument. It seems to draw you in as you look at it."
 	icon = 'icons/obj/musician.dmi'
 	icon_state = "guitar2"
 	item_state = "guitar2"
@@ -192,7 +192,7 @@ Stage 5
 
 	else
 		playing = 1
-		var/guitarsound = pick('sound/items/guitar3.ogg','sound/items/guitar4.ogg')					//new sounds
+		var/guitarsound = pick('sound/items/guitar3.ogg','sound/items/guitar4.ogg' , 'sound/items/guitar5.ogg')					//new sounds
 		playsound(loc, guitarsound, 100, 0)
 		for(var/mob/living/M in hearers(4, user))								//AOE stun
 			if(prob(5))

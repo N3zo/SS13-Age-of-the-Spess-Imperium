@@ -336,7 +336,7 @@ Eldar PSword
 	icon_state = "ps_off"
 	icon_on = "ps_on"
 	icon_off = "ps_off"
-	switchsound = 'sound/effects/eldar2.ogg'
+	switchsound = 'sound/effects/Poweron.ogg'
 	slot_flags = SLOT_BELT
 	flags = CONDUCT | NOSHIELD
 	force = 30.0
@@ -356,7 +356,7 @@ Eldar PSword
 	icon_off = "umpsword_off"
 	item_on = "psword"
 	item_off = "claymore"
-	switchsound = 'sound/effects/eldar2.ogg'
+	switchsound = 'sound/effects/Poweron.ogg'
 	slot_flags = SLOT_BELT
 	flags = CONDUCT | NOSHIELD
 	force = 40.0
@@ -395,7 +395,7 @@ Eldar PSword
 	item_state = "claymore"
 	icon_on = "powersword_on"
 	icon_off = "powersword_off"
-	switchsound = 'sound/effects/phasein.ogg'
+	switchsound = 'sound/effects/Poweron.ogg'
 	force = 40.0
 	throwforce = 15
 	origin_tech = "combat=6"
@@ -411,7 +411,7 @@ Eldar PSword
 	icon_state = "paxe_off"
 	icon_on = "paxe_on"
 	icon_off = "paxe_off"
-	switchsound = 'sound/effects/phasein.ogg'
+	switchsound = 'sound/effects/Poweron.ogg'
 	force = 40.0
 	throwforce = 15
 	origin_tech = "combat=6"
@@ -427,7 +427,7 @@ Eldar PSword
 	icon_state = "maceabs"
 	icon_on = "maceabs_on"
 	icon_off = "maceabs"
-	switchsound = 'sound/effects/phasein.ogg'
+	switchsound = 'sound/effects/Poweron.ogg'
 	force = 40.0
 	throwforce = 15
 	origin_tech = "combat=6"

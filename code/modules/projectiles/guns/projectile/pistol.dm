@@ -168,7 +168,7 @@
 	w_class = 2.0
 	origin_tech = "combat=2;materials=2;syndicate=2"
 	mag_type = /obj/item/ammo_box/magazine/laspistolmag
-	fire_sound = 'sound/weapons/lasgun.ogg'
+	fire_sound = 'sound/weapons/lasp.ogg'
 	slot_flags = SLOT_BELT
 	ejectcasing = 0 //Technically energy based! None of that!
 
@@ -184,7 +184,7 @@
 	force = 14.0
 	origin_tech = "combat=2;materials=2;syndicate=2"
 	mag_type = /obj/item/ammo_box/magazine/laspistolmag
-	fire_sound = 'sound/weapons/lasgun.ogg'
+	fire_sound = 'sound/weapons/lasp.ogg'
 	slot_flags = SLOT_BELT
 	ejectcasing = 0 //Technically energy based! None of that!
 
@@ -214,7 +214,7 @@ Hell Pistol
 	force = 14.0
 	origin_tech = "combat=2;materials=2;syndicate=2"
 	mag_type = /obj/item/ammo_box/magazine/hellgunmag
-	fire_sound = 'sound/weapons/lasercannonfire.ogg'
+	fire_sound = 'sound/weapons/hellpistol.ogg'
 	slot_flags = SLOT_BELT
 	ejectcasing = 0 //Technically energy based! None of that!
 

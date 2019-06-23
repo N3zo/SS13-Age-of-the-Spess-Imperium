@@ -174,7 +174,7 @@ Ork Shotta
 		var/target_x = targloc.x
 		var/target_y = targloc.y
 		var/target_z = targloc.z
-		playsound(loc, 'sound/weapons/Gunshot.ogg', 80, 1)
+		playsound(loc, 'sound/weapons/slugga_1.ogg', 80, 1)
 		for(var/i=1 to min(projectiles, projectiles_per_shot))
 			var/dx = round(gaussian(0,deviation),1)
 			var/dy = round(gaussian(0,deviation),1)
