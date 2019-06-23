@@ -86,7 +86,7 @@
 	icon_off = "harlequin_off"
 	item_on = "mercychainswordig0"
 	item_off = "mercychainswordig0"
-	switchsound = 'sound/effects/phasein.ogg'
+	switchsound = 'sound/effects/Poweron.ogg'
 	force = 40.0
 	throwforce = 30
 	origin_tech = "combat=8"

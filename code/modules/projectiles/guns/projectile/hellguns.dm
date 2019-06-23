@@ -10,7 +10,7 @@ Hell Gun
 	slot_flags = SLOT_BACK
 	origin_tech = "combat=5;materials=1;syndicate=2"
 	mag_type = /obj/item/ammo_box/magazine/hellgunmag
-	fire_sound = 'sound/weapons/lasercannonfire.ogg'
+	fire_sound = 'sound/weapons/hellgun.ogg'
 	scoped = 0
 	chainb = 0
 	canscope = 0

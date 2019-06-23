@@ -20,7 +20,7 @@
 	slot_flags = 0
 	origin_tech = "combat=5;materials=1;syndicate=2"
 	mag_type = /obj/item/ammo_box/magazine/sluggamag
-	fire_sound = 'sound/weapons/gunshot.ogg'
+	fire_sound = 'sound/weapons/slugga_1.ogg'
 	var/projectiles = 45
 	var/deviation = 0.1
 	var/projectile
