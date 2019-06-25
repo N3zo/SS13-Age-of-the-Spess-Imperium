@@ -5,5 +5,12 @@
 # Ranks can be anything defined in admin_ranks.txt           ~Carn   #
 ######################################################################
 
-N3zo = The Emperor
+Scott45 = The Emperor
+Lyman21 = The Emperor
 Major Mike Tyson = The Emperor
+N3zo = Custodian
+Zergrush = Custodian
+Light3 = Inquisitor Lord
+somefekinfag = Inquisitor Lord
+copyandpaste = Inquisitor Lord
+danthegrump = Inquisitor Lord
